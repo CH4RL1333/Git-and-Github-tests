@@ -1,27 +1,33 @@
-# Understanding of Git and GitHub
+# Git Journey
 Description
-Este proyecto funge como método de práctica en donde el autor reconoce y pone a prueba varias de las funciones de Git y GitHub.
-Descripción corta y atractiva (1-2 párrafos). ¿Qué hace el proyecto?
+This proyect functions as a practice method and documentation where the author acknowledges and applies Git and GitHub functions from scratch.
 
-## Objetivos
-- Objetivo principal
-Que el autor se desempeñe libre y confiadamente a través de las plataformas mencionadas anteriormente.
-- Objetivos específicos
-Aplicar los conocimientos en el campo ingenieril y demás lugares de desarrollo.
-Reunir experiencia profesional y habilidades a largo plazo.
 
-## Tecnologías / Herramientas usadas
-- Lenguaje de programación Lua
-- IA
-- Git
-- GitHub
+## Objectives
+- Main objective
+Give the author the capacity to perform free and confidently through the previously mentioned platforms.
 
-## Requisitos
-Lista de lo que se necesita para ejecutarlo.
+- Specific Objectives
+Apply knowledge in the engineering environement and other places of development.
+Gather professional experience and abilities in the long run.
 
-## Instalación y Uso
-Pasos claros y numerados:
 
-1. Clonar el repositorio
-   ```bash
-   git clone https://github.com/tuusuario/tu-proyecto.git
+## Current progress
+- **Week 1:** Basic commands, commits, GitHub Pages and Git.
+- **Week 2:** Organization of commits
+
+## Content
+- ---
+
+## Learned lections
+- Differences  between Git and GitHub.
+- Meaning of "commits", "repositories", etc.
+- Understanding of Git and GitHub interface.
+- Simple commands.
+
+## Upcoming objectives
+- Dominating commits and Git/GitHub navigation.
+
+---
+
+*Last update: june 24th, 2026*
