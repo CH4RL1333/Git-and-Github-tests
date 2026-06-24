@@ -1,6 +1,6 @@
 # Git Journey
-Description
-This proyect functions as a practice method and documentation where the author acknowledges and applies Git and GitHub functions from scratch.
+## Description
+This project functions as a practice method and documentation where the author acknowledges and applies Git and GitHub functions from scratch.
 
 
 ## Objectives
@@ -8,13 +8,13 @@ This proyect functions as a practice method and documentation where the author a
 Give the author the capacity to perform free and confidently through the previously mentioned platforms.
 
 - Specific Objectives
-Apply knowledge in the engineering environement and other places of development.
+Apply knowledge in the engineering environment and other places of development.
 Gather professional experience and abilities in the long run.
 
 
 ## Current progress
 - **Week 1:** Basic commands, commits, GitHub Pages and Git.
-- **Week 2:** Organization of commits
+- **Week 2:** Organization of commits.
 
 ## Content
 - ---
